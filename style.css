@@ -1,5 +1,3 @@
-/* Background image bg.png */
-/* Centered on the middle */
 html {
     background-image: url(./bg.svg);
     background-size: 100% 100%;
